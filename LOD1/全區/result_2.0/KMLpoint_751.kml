@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_751</name>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML">
+		<name>KML_751</name>
+		<LookAt>
+			<longitude>121.559171</longitude>
+			<latitude>25.033774</latitude>
+			<altitude>103.300000</altitude>
+			<heading>80</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<name>KMLpoint_751</name>
+	<name>KML_751</name>
+		<Placemark id="ID">
+			<description>NO:0
+			121.559171 25.033774 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559171,25.033774,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:1
+			121.559171 25.033774 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559171,25.033774,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:2
+			121.559206 25.033779 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559206,25.033779,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:3
+			121.559208 25.033776 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559208,25.033776,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:4
+			121.559201 25.033751 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559201,25.033751,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:5
+			121.559198 25.033751 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559198,25.033751,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:6
+			121.559201 25.033724 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559201,25.033724,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:7
+			121.559183 25.033700 12.911472
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.559183,25.033700,12.911472 
+							</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

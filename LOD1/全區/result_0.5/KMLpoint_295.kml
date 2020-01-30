@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_295</name>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML">
+		<name>KML_295</name>
+		<LookAt>
+			<longitude>121.561201</longitude>
+			<latitude>25.033280</latitude>
+			<altitude>116.500000</altitude>
+			<heading>80</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<name>KMLpoint_295</name>
+	<name>KML_295</name>
+		<Placemark id="ID">
+			<description>NO:0
+			121.561201 25.033280 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561201,25.033280,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:1
+			121.561215 25.033293 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561215,25.033293,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:2
+			121.561214 25.033247 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561214,25.033247,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:3
+			121.561199 25.033233 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561199,25.033233,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:4
+			121.561125 25.033234 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561125,25.033234,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:5
+			121.561110 25.033248 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561110,25.033248,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:6
+			121.561110 25.033281 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561110,25.033281,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:7
+			121.561036 25.033282 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561036,25.033282,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:8
+			121.561036 25.033250 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561036,25.033250,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:9
+			121.561022 25.033237 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561022,25.033237,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:10
+			121.560945 25.033238 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560945,25.033238,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:11
+			121.560932 25.033253 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560932,25.033253,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:12
+			121.560932 25.033258 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560932,25.033258,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:13
+			121.560753 25.033261 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560753,25.033261,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:14
+			121.560752 25.033255 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560752,25.033255,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:15
+			121.560738 25.033242 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560738,25.033242,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:16
+			121.560663 25.033244 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560663,25.033244,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:17
+			121.560650 25.033258 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560650,25.033258,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:18
+			121.560650 25.033291 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560650,25.033291,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:19
+			121.560576 25.033292 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560576,25.033292,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:20
+			121.560575 25.033260 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560575,25.033260,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:21
+			121.560560 25.033246 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560560,25.033246,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:22
+			121.560486 25.033248 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560486,25.033248,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:23
+			121.560472 25.033261 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560472,25.033261,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:24
+			121.560472 25.033309 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560472,25.033309,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:25
+			121.560486 25.033294 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560486,25.033294,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:26
+			121.560561 25.033293 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560561,25.033293,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:27
+			121.560575 25.033306 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560575,25.033306,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:28
+			121.560576 25.033339 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560576,25.033339,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:29
+			121.560651 25.033339 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560651,25.033339,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:30
+			121.560651 25.033305 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560651,25.033305,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:31
+			121.560665 25.033291 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560665,25.033291,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:32
+			121.560739 25.033289 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560739,25.033289,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:33
+			121.560754 25.033301 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560754,25.033301,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:34
+			121.560754 25.033308 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560754,25.033308,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:35
+			121.560933 25.033304 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560933,25.033304,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:36
+			121.560933 25.033299 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560933,25.033299,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:37
+			121.560947 25.033285 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.560947,25.033285,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:38
+			121.561021 25.033283 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561021,25.033283,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:39
+			121.561036 25.033297 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561036,25.033297,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:40
+			121.561037 25.033330 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561037,25.033330,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:41
+			121.561111 25.033330 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561111,25.033330,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:42
+			121.561111 25.033296 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561111,25.033296,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID">
+			<description>NO:43
+			121.561126 25.033281 44.199044
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+121.561126,25.033281,44.199044 
+							</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

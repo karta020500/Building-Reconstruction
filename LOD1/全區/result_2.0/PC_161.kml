@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_161</name>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML_161">
+		<name>KML_161</name>
+		<LookAt>
+			<longitude>121.562790</longitude>
+			<latitude>25.032131</latitude>
+			<altitude>10.577828</altitude>
+			<heading>10</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>		</LookAt>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562790 25.032131 10.577828
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562790,25.032131,10.577828 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562822 25.032131 8.468019
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562822,25.032131,8.468019 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562853 25.032131 37.797943
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562853,25.032131,37.797943 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562947 25.032131 37.899319
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562947,25.032131,37.899319 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562995 25.032145 38.393402
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562995,25.032145,38.393402 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562791 25.032160 10.040460
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562791,25.032160,10.040460 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562822 25.032160 37.072392
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562822,25.032160,37.072392 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562853 25.032160 37.484699
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562853,25.032160,37.484699 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562885 25.032159 35.648457
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562885,25.032159,35.648457 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562932 25.032159 37.124382
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562932,25.032159,37.124382 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562948 25.032159 38.089394
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562948,25.032159,38.089394 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562979 25.032159 37.756813
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562979,25.032159,37.756813 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.563010 25.032159 38.122768
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.563010,25.032159,38.122768 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562791 25.032188 9.271736
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562791,25.032188,9.271736 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562822 25.032188 37.809860
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562822,25.032188,37.809860 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562853 25.032188 37.843430
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562853,25.032188,37.843430 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562885 25.032188 44.849312
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562885,25.032188,44.849312 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562932 25.032202 43.905735
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562932,25.032202,43.905735 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562948 25.032188 40.444679
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562948,25.032188,40.444679 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562979 25.032188 37.725155
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562979,25.032188,37.725155 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.563010 25.032188 34.337772
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.563010,25.032188,34.337772 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562854 25.032217 37.645084
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562854,25.032217,37.645084 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562932 25.032217 40.837475
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562932,25.032217,40.837475 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_161">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>			<META http-equiv="Content - Type" content="text / html">			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>161</td>
+			121.562948 25.032216 32.859573
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.562948,25.032216,32.859573 
+							</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

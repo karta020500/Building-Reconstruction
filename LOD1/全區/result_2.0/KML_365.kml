@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_365</name>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML">
+		<name>KML_365</name>
+		<LookAt>
+			<longitude>121.561019</longitude>
+			<latitude>25.031308</latitude>
+			<altitude>136.300000</altitude>
+			<heading>80</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<name>KML_365</name>
+		<Placemark id="ID">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>
+			<META http-equiv="Content - Type" content="text / html">
+			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">
+			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>365</td>
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+			<Polygon>
+			<extrude>1</extrude>
+			<altitudeMode>absolute</altitudeMode>
+			<outerBoundaryIs>
+			<LinearRing>
+					<coordinates>
+121.561019,25.031308,44.311099 121.561021,25.031315,44.311099 121.561066,25.031308,44.311099 121.561066,25.031306,44.311099 121.561065,25.031301,44.311099 121.561126,25.031291,44.311099 121.561108,25.031197,44.311099 121.561042,25.031207,44.311099 121.561041,25.031203,44.311099 121.561035,25.031203,44.311099 121.561029,25.031204,44.311099 121.561023,25.031205,44.311099 121.561016,25.031206,44.311099 121.561008,25.031208,44.311099 121.561001,25.031210,44.311099 121.561002,25.031214,44.311099 121.560949,25.031222,44.311099 121.560948,25.031218,44.311099 121.560941,25.031218,44.311099 121.560935,25.031219,44.311099 121.560928,25.031220,44.311099 121.560921,25.031221,44.311099 121.560914,25.031223,44.311099 121.560907,25.031225,44.311099 121.560908,25.031229,44.311099 121.560799,25.031247,44.311099 121.560798,25.031243,44.311099 121.560789,25.031244,44.311099 121.560782,25.031244,44.311099 121.560776,25.031245,44.311099 121.560770,25.031246,44.311099 121.560763,25.031247,44.311099 121.560755,25.031249,44.311099 121.560748,25.031251,44.311099 121.560749,25.031255,44.311099 121.560742,25.031256,44.311099 121.560750,25.031296,44.311099 121.560705,25.031303,44.311099 121.560704,25.031300,44.311099 121.560698,25.031300,44.311099 121.560694,25.031300,44.311099 121.560685,25.031301,44.311099 121.560681,25.031301,44.311099 121.560677,25.031302,44.311099 121.560673,25.031304,44.311099 121.560668,25.031306,44.311099 121.560663,25.031307,44.311099 121.560664,25.031309,44.311099 121.560607,25.031318,44.311099 121.560622,25.031403,44.311099 121.560654,25.031398,44.311099 121.560655,25.031404,44.311099 121.560708,25.031395,44.311099 121.560707,25.031390,44.311099 121.560721,25.031388,44.311099 121.560713,25.031346,44.311099 121.560798,25.031332,44.311099 121.560799,25.031338,44.311099 121.560841,25.031332,44.311099 121.560840,25.031327,44.311099 121.560862,25.031323,44.311099 121.560864,25.031333,44.311099 121.560920,25.031324,44.311099 121.560922,25.031331,44.311099 121.560968,25.031324,44.311099 121.560967,25.031317,44.311099 121.560964,25.031317,44.311099 121.560954,25.031265,44.311099 121.561012,25.031256,44.311099 121.561022,25.031308,44.311099 121.561019,25.031308,44.311099  
+					</coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+			</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

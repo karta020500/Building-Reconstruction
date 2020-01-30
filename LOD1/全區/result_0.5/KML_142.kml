@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_142</name>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML">
+		<name>KML_142</name>
+		<LookAt>
+			<longitude>121.559101</longitude>
+			<latitude>25.035494</latitude>
+			<altitude>123.100000</altitude>
+			<heading>80</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<name>KML_142</name>
+		<Placemark id="ID">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>
+			<META http-equiv="Content - Type" content="text / html">
+			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">
+			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>142</td>
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+			<Polygon>
+			<extrude>1</extrude>
+			<altitudeMode>absolute</altitudeMode>
+			<outerBoundaryIs>
+			<LinearRing>
+					<coordinates>
+121.559101,25.035494,29.165967 121.559073,25.035489,29.165967 121.559073,25.035492,29.165967 121.559026,25.035486,29.165967 121.559031,25.035460,29.165967 121.559077,25.035467,29.165967 121.559087,25.035469,29.165967 121.559098,25.035409,29.165967 121.559085,25.035408,29.165967 121.559091,25.035375,29.165967 121.559028,25.035366,29.165967 121.559016,25.035429,29.165967 121.559001,25.035427,29.165967 121.558996,25.035452,29.165967 121.558991,25.035482,29.165967 121.558951,25.035477,29.165967 121.558957,25.035447,29.165967 121.558962,25.035421,29.165967 121.558964,25.035411,29.165967 121.558902,25.035402,29.165967 121.558903,25.035526,29.165967 121.558942,25.035531,29.165967 121.558940,25.035541,29.165967 121.558985,25.035548,29.165967 121.559062,25.035559,29.165967 121.559064,25.035548,29.165967 121.559160,25.035562,29.165967 121.559158,25.035573,29.165967 121.559283,25.035590,29.165967 121.559285,25.035580,29.165967 121.559334,25.035586,29.165967 121.559336,25.035572,29.165967 121.559342,25.035532,29.165967 121.559358,25.035534,29.165967 121.559401,25.035540,29.165967 121.559410,25.035481,29.165967 121.559364,25.035474,29.165967 121.559366,25.035464,29.165967 121.559301,25.035455,29.165967 121.559300,25.035466,29.165967 121.559296,25.035494,29.165967 121.559292,25.035523,29.165967 121.559251,25.035518,29.165967 121.559256,25.035489,29.165967 121.559259,25.035461,29.165967 121.559244,25.035459,29.165967 121.559254,25.035396,29.165967 121.559254,25.035396,29.165967 121.559189,25.035387,29.165967 121.559184,25.035420,29.165967 121.559172,25.035418,29.165967 121.559163,25.035481,29.165967 121.559173,25.035482,29.165967 121.559173,25.035481,29.165967 121.559222,25.035487,29.165967 121.559218,25.035513,29.165967 121.559170,25.035508,29.165967 121.559171,25.035504,29.165967 121.559146,25.035501,29.165967 121.559101,25.035494,29.165967  
+					</coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+			</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

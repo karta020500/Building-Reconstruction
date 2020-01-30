@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_81</name>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+		<Icon>
+		<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+		</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML">
+		<name>KML_81</name>
+		<LookAt>
+			<longitude>121.563249</longitude>
+			<latitude>25.031061</latitude>
+			<altitude>113.200000</altitude>
+			<heading>80</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+	<name>KML_81</name>
+		<Placemark id="ID">
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+			<head>
+			<META http-equiv="Content - Type" content="text / html">
+			<meta http-equiv="content - type" content="text / html; charset = UTF - 8">
+			</head>
+			<body style="margin:0px 0px 0px 0px; overflow:auto; background:#FFFFFF; ">
+			<td>FID</td>
+
+			<td>81</td>
+			</html>]]></description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<MultiGeometry>
+			<Polygon>
+			<extrude>1</extrude>
+			<altitudeMode>absolute</altitudeMode>
+			<outerBoundaryIs>
+			<LinearRing>
+					<coordinates>
+121.563249,25.031061,25.032754 121.563591,25.031054,25.032754 121.563621,25.031053,25.032754 121.563714,25.031052,25.032754 121.563711,25.030934,25.032754 121.563707,25.030934,25.032754 121.563683,25.030935,25.032754 121.563621,25.030936,25.032754 121.563616,25.030738,25.032754 121.563611,25.030733,25.032754 121.563428,25.030734,25.032754 121.563488,25.030787,25.032754 121.563492,25.030939,25.032754 121.563236,25.030944,25.032754 121.563233,25.030927,25.032754 121.563228,25.030915,25.032754 121.563224,25.030908,25.032754 121.563219,25.030902,25.032754 121.563212,25.030895,25.032754 121.563203,25.030887,25.032754 121.563192,25.030880,25.032754 121.563181,25.030874,25.032754 121.563169,25.030871,25.032754 121.563157,25.030868,25.032754 121.563146,25.030868,25.032754 121.563142,25.030867,25.032754 121.563128,25.030867,25.032754 121.563117,25.030868,25.032754 121.563115,25.030868,25.032754 121.563117,25.030954,25.032754 121.563112,25.030954,25.032754 121.563113,25.030985,25.032754 121.563118,25.030985,25.032754 121.563130,25.031442,25.032754 121.563130,25.031461,25.032754 121.563228,25.031459,25.032754 121.563723,25.031449,25.032754 121.563724,25.031331,25.032754 121.563629,25.031333,25.032754 121.563598,25.031334,25.032754 121.563256,25.031341,25.032754 121.563249,25.031061,25.032754  
+					</coordinates>
+			</LinearRing>
+			</outerBoundaryIs>
+			<innerBoundaryIs>
+			<LinearRing>
+					<coordinates>
+121.563625,25.031426,25.032754 121.563624,25.031354,25.032754 121.563673,25.031354,25.032754 121.563674,25.031426,25.032754 121.563625,25.031426,25.032754 121.563616,25.031034,25.032754 121.563615,25.030961,25.032754 121.563662,25.030961,25.032754 121.563664,25.031033,25.032754 121.563616,25.031034,25.032754 					</coordinates>
+			</LinearRing>
+			</innerBoundaryIs>
+			</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
