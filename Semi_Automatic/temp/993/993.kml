@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>KML_993</name>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>0.5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff7c6e9</color>
+		</PolyStyle>
+	</Style>
+	<Folder id="KML_993">
+		<name>KML_993</name>
+		<LookAt>
+			<longitude>121.573440</longitude>
+			<latitude>25.037728</latitude>
+			<altitude>33.837000</altitude>
+			<heading>10</heading>
+			<tilt>45</tilt>
+			<range>130</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>		</LookAt>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573440 25.037728 33.837000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573440,25.037728,33.837000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037728 34.156000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037728,34.156000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037728 33.908000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037728,33.908000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573440 25.037737 33.767000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573440,25.037737,33.767000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037737 34.147000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037737,34.147000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037737 33.952000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037737,33.952000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573440 25.037747 33.607000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573440,25.037747,33.607000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037746 34.627000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037746,34.627000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037746 34.400000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037746,34.400000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573440 25.037756 33.897000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573440,25.037756,33.897000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037755 34.517000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037755,34.517000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037755 34.402000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037755,34.402000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573440 25.037765 33.868000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573440,25.037765,33.868000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037765 34.498000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037765,34.498000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037764 34.458000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037764,34.458000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573441 25.037774 35.514000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573441,25.037774,35.514000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037774 35.200000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037774,35.200000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037774 34.438000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037774,34.438000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573441 25.037783 35.090000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573441,25.037783,35.090000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573450 25.037783 34.235000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573450,25.037783,34.235000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037783 34.237000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037783,34.237000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573441 25.037792 33.637000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573441,25.037792,33.637000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573451 25.037792 34.148000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573451,25.037792,34.148000 
+							</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_993">
+			<description>
+993
+			121.573460 25.037792 34.043000
+			</description>
+			<styleUrl>#PolyStyle001</styleUrl>
+			<Point>
+					<altitudeMode>absolute</altitudeMode>
+							<coordinates>
+								121.573460,25.037792,34.043000 
+							</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

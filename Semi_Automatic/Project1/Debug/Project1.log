@@ -1,0 +1,72 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中繼目錄 (Debug\) 包含從其他專案 (Project1.vcxproj) 共用的檔案。這可能導致錯誤的清除和重建行為。
+  MyForm.cpp
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(525): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(507): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(509): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(510): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(511): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(512): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(513): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(559): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(561): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(573): warning C4244: '=': 將 'double' 轉換為 'long'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(594): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(609): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(638): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(639): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(2260): note: 請參閱 'sscanf' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(938): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(865): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(866): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(867): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1080): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1084): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1213): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1262): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1111): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1714): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1760): warning C4018: '<': signed/unsigned 不相符
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1580): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1581): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1582): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1583): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1590): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1592): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1824): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1825): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(136): note: 請參閱 'strcpy' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1826): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1827): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\string.h(93): note: 請參閱 'strcat' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1833): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(1835): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(207): note: 請參閱 'fopen' 的宣告
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(2157): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\user\desktop\reaserch data\codeing\半自動化\project1\MyForm.h(2153): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 請參閱 'sprintf' 的宣告
+MyForm.cpp(7): warning C4829: 函式 main 的參數可能不正確。請考慮 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  MyForm.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
+  Project1.vcxproj -> C:\Users\User\Desktop\Reaserch Data\Codeing\半自動化\Debug\Project4.exe
+  Project1.vcxproj -> C:\Users\User\Desktop\Reaserch Data\Codeing\半自動化\Debug\Project4.pdb (Partial PDB)
