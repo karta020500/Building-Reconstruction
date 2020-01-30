@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Title.kml</name>
+	<Style id="PolyStyle00">
+		<IconStyle>
+			<scale>5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Style id="PolyStyle000">
+		<IconStyle>
+			<scale>5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle0000">
+		<IconStyle>
+			<scale>5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff0000ff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="PolyStyle001">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle0000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="PolyStyle0010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#PolyStyle000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#PolyStyle002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="PolyStyle002">
+		<IconStyle>
+			<scale>5</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>5</width>
+		</LineStyle>
+	</Style>
+	<Folder id="KML">
+		<name>KML</name>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.041392,0 121.575443,25.040788,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.04049,0 121.575443,25.039886,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.039587,0 121.575443,25.03898300000001,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.038684,0 121.575443,25.03808,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.037781,0 121.575443,25.037177,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.036878,0 121.575443,25.036274,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.035976,0 121.575443,25.035372,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.035073,0 121.575443,25.034469,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.03417,0 121.575443,25.033566,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.033267,0 121.575443,25.032663,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.032364,0 121.575443,25.03176,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.031462,0 121.575443,25.030858,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.030559,0 121.575443,25.029955,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.029656,0 121.575443,25.029052,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.028753,0 121.575443,25.028149,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.02785,0 121.575443,25.027247,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.026948,0 121.575443,25.026344,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle0010</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.026045,0 121.575443,25.025441,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.557606,25.041392,0 121.5576045031938,25.02602307956687,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.558597,25.041389,0 121.5585846962962,25.025988329767,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5595782944191,25.04133706839477,0 121.5595679458752,25.02597563599332,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5605769916408,25.04131362334037,0 121.5605497940909,25.02593239944845,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5615725130223,25.04127919012591,0 121.5615640650455,25.02591038113626,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5625706632503,25.04124917812268,0 121.5625237397962,25.02586692670677,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5635517463989,25.04123150011426,0 121.5635053119948,25.02584549972988,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5645419603212,25.04119759031946,0 121.5645212170743,25.02579159927381,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5655309132593,25.0411702393436,0 121.5655103308808,25.02574695582961,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5665238153331,25.04114100430449,0 121.5665175389151,25.02572999666985,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5675105371523,25.04108993343753,0 121.5674932934591,25.02571042689015,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.568502543465,25.04103197835604,0 121.5685153010172,25.02565545586829,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5695083796995,25.04099749398108,0 121.5694989499298,25.02562271759116,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5704645904013,25.04095841038119,0 121.570497926286,25.02560854672911,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5714631752714,25.040918280623,0 121.5714809646525,25.02556971256178,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.5724587242201,25.04090435491297,0 121.5724798707794,25.02553075464824,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.573471176852,25.04086752924605,0 121.5734521638066,25.02550463825275,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark id="ID">
+			<styleUrl>#PolyStyle001</styleUrl>
+			<LineString>
+				<coordinates>
+					121.574413536792,25.04084122685272,0 121.5744746366947,25.02546778981193,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
