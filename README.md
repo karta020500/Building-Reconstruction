@@ -13,4 +13,4 @@ This project objective is to reconstruct the OGC standard Level of Detail(LOD) 2
 
 |  <img src="https://github.com/karta020500/Building-Reconstruction/blob/master/Automatic/result.png" width = "500" height = "300" /> | <img src="https://github.com/karta020500/Building-Reconstruction/blob/master/Automatic/compare.png" width = "330" height = "300" />  | 
 |:-------:|:-----:|
-|result of reconstruction|result comparison|
+|Result of reconstruction|Result comparison|
