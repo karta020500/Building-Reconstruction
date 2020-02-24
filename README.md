@@ -11,6 +11,6 @@ This project objective is to reconstruct the OGC standard Level of Detail(LOD) 2
 
 # Results
 
-|  <img src="https://github.com/karta020500/Road-Network-Extraction/blob/master/SVM_Classification/Results/classification.png" width = "500" height = "330" /> | <img src="https://github.com/karta020500/Road-Network-Extraction/blob/master/Radon_line_tracing/Results/final.jpg" width = "500" height = "330" />  | 
+|  <img src="https://github.com/karta020500/Building-Reconstruction/blob/master/Automatic/result.png" width = "500" height = "300" /> | <img src="https://github.com/karta020500/Building-Reconstruction/blob/master/Automatic/compare.png" width = "330" height = "300" />  | 
 |:-------:|:-----:|
-|Classification|Road network completeness|
+|result of reconstruction|result comparison|
