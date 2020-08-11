@@ -7,7 +7,7 @@ This project objective is to reconstruct the OGC standard Level of Detail(LOD) 2
 
 1. Input building footprint in KML data format and point clouds in xyz data format, point clouds data can also be TIN structure.
 2. Set the number of building you want to reconstruct.
-3. The output will reconstruce the building areas correspond to point clouds and building footprint in KML data format.
+3. The output will reconstruct the building areas correspond to point clouds and building footprint in KML data format.
 
 ## Results
 
